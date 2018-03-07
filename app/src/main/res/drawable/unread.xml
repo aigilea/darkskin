@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  
+  <item android:state_pressed="true" android:state_enabled="true" >
+    <layer-list>
+      <item>
+        <shape android:shape="rectangle" >
+          <solid android:color="@color/pressed_csl" />
+        </shape>
+      </item>
+      <item android:left="0dp"
+		        android:top="0dp"
+		        android:right="16dp"
+            android:bottom="0dp">
+        <bitmap android:src="@drawable/ic_unread" android:gravity="center_vertical|right" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item>
+    <layer-list>
+      <item android:left="0dp"
+		        android:top="0dp"
+		        android:right="16dp"
+            android:bottom="0dp">
+        <bitmap android:src="@drawable/ic_unread" android:gravity="center_vertical|right" />
+      </item>
+    </layer-list>
+  </item>
+
+</selector>

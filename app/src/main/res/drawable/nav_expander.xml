@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:state_checked="true" android:state_pressed="false" >
+    <layer-list>
+      <item>
+        <bitmap android:src="@drawable/ic_expander_close" android:gravity="center" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item android:state_checked="false" android:state_pressed="false" >
+    <layer-list>
+      <item>
+        <bitmap android:src="@drawable/ic_expander_open" android:gravity="center" />
+      </item>
+    </layer-list>
+  </item>
+
+
+  <item android:state_checked="true" android:state_pressed="true" >
+    <layer-list>
+      <item>
+        <shape android:shape="rectangle" >
+          <solid android:color="@color/pressed_csl" />
+        </shape>
+      </item>
+      <item>
+        <bitmap android:src="@drawable/ic_expander_close" android:gravity="center" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item android:state_checked="false" android:state_pressed="true" >
+    <layer-list>
+      <item>
+        <shape android:shape="rectangle" >
+          <solid android:color="@color/pressed_csl" />
+        </shape>
+      </item>
+      <item>
+        <bitmap android:src="@drawable/ic_expander_open" android:gravity="center" />
+      </item>
+    </layer-list>
+  </item>
+
+</selector>

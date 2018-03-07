@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:state_selected="false" >
+    <layer-list>
+      <item>
+          <bitmap android:src="@drawable/ic_expand_close"  android:gravity="center" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item android:state_selected="true">
+    <layer-list>
+      <item>
+          <bitmap android:src="@drawable/ic_expand_open"  android:gravity="center" />
+      </item>
+    </layer-list>
+  </item>
+
+</selector>

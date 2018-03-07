@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  
+  <item android:state_checked="true" android:state_pressed="false" >
+    <layer-list>
+      <item android:left="0dp" >
+        <bitmap android:src="@drawable/ic_checkbox_on" android:gravity="left" />
+      </item>
+    </layer-list>
+  </item>
+  
+  <item android:state_checked="true" android:state_pressed="true" >
+    <layer-list>
+      <item >
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/pressed_csl" />
+        </shape>
+      </item>
+      <item android:left="0dp" >
+        <bitmap android:src="@drawable/ic_checkbox_on" android:gravity="left" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item android:state_checked="false" android:state_pressed="false" >
+    <layer-list>
+      <item android:left="0dp" >
+        <bitmap android:src="@drawable/ic_checkbox_off" android:gravity="left" />
+      </item>
+    </layer-list>
+  </item>
+  
+  <item android:state_checked="false" android:state_pressed="true" >
+    <layer-list>
+      <item >
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/pressed_csl" />
+        </shape>
+      </item>
+      <item android:left="0dp" >
+        <bitmap android:src="@drawable/ic_checkbox_off" android:gravity="left" />
+      </item>
+    </layer-list>
+  </item>
+
+</selector>
+
+<!--selector xmlns:android="http://schemas.android.com/apk/res/android"  xmlns:pda="http://schemas.android.com/apk/res-auto">
+
+  <item pda:state_checked="true" android:state_pressed="false" >
+    <layer-list>
+      <item android:right="0dp" >
+        <bitmap android:src="@drawable/light_ic_checkbox_on" android:gravity="right" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item pda:state_checked="true" android:state_pressed="true" >
+    <layer-list>
+      <item >
+        <shape android:shape="rectangle" >
+          <solid android:color="@color/pressed_light" />
+        </shape>
+      </item>
+      <item android:right="0dp" >
+        <bitmap android:src="@drawable/light_ic_checkbox_on" android:gravity="right" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item android:state_checked="false" android:state_pressed="false" >
+    <layer-list>
+      <item android:right="0dp" >
+        <bitmap android:src="@drawable/light_ic_checkbox_off" android:gravity="right" />
+      </item>
+    </layer-list>
+  </item>
+
+  <item android:state_checked="false" android:state_pressed="true" >
+    <layer-list>
+      <item >
+        <shape android:shape="rectangle" >
+          <solid android:color="@color/pressed_light" />
+        </shape>
+      </item>
+      <item android:right="0dp" >
+        <bitmap android:src="@drawable/light_ic_checkbox_off" android:gravity="right" />
+      </item>
+    </layer-list>
+  </item>
+
+</selector-->
