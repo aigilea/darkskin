@@ -8,9 +8,9 @@ android {
         applicationId "ru.fourpda.skins.dark"   /* обязательно переименовать "ru.fourpda.skins.ВАШЕ_ИМЯ"
                                 при добавлении скина на форум, указать данную строчку в поле "Имя скина в системе"*/
         minSdkVersion 10
-        versionCode 155
-        versionName "1.6.2"
         targetSdkVersion 25
+        versionCode 176
+        versionName "1.8.0"
     }
     buildTypes {
         release {
