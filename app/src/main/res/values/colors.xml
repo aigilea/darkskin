@@ -232,9 +232,12 @@
     <color name="group_spec_project">#FF9A60FF</color>
     <color name="group_businessman">#FFB100BF</color>
     <color name="group_curator">#FFb0b0b0</color>
-    <color name="group_moderator_helper">#FF0099FF</color>
+    <color name="group_mod_helper">#FF0099FF</color>
     <color name="group_moderator">#FF0099FF</color>
     <color name="group_router">#FFb0b0b0</color>
     <color name="group_super_moderator">#FF0000FF</color>
     <color name="group_admin">#FFFF0000</color>
+    <color name="group_banned">#FF808080</color>
+    <color name="group_developer">#FFBC33FF</color>
+    <color name="group_mod_school">#FF0099FF</color>
 </resources>
