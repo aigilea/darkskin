@@ -22,9 +22,11 @@
     <color name="button_flat_bg">#FF606060</color>
     <color name="selected_bg">#FF4e4e4e</color>
     <color name="start_btn_text">#FF0E2E49</color>
+    <color name="sitepost_shade">#99000000</color>
     <color name="comments_count_bg">#FF2B7691</color>
 
     <color name="hidden">#FF3f0000</color>
+    <color name="deleted">#40000000</color>
     <color name="global_important">#40FF0000</color>
     <color name="global_normal">#200088FF</color>
     <color name="search_post_title">#FF2B455B</color>
@@ -49,6 +51,8 @@
     <color name="bb_empty_image_x">#80B0B0B0</color>
     <color name="bb_selection_font">#FFd0d0d0</color>
     <color name="bb_selection_background">#FF1d7a9f</color>
+    <color name="bb_link_hl_font">#0000</color>
+    <color name="bb_link_hl_background">#0000</color>
 
     <color name="bb_background">#0000</color>
 
@@ -80,6 +84,8 @@
     <color name="bb_cur_body">#0000</color>
     <color name="bb_cur_border">#FF004f1f</color>
     <color name="bb_cur_indent">#FF004f1f</color>
+
+    <color name="bb_table_border">#FFC0C0C0</color>
 
     <!--bb text color map-->
     <color name="aliceblue">#FFF0F8FF</color>
