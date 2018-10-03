@@ -26,7 +26,7 @@
     <color name="comments_count_bg">#FF2B7691</color>
 
     <color name="hidden">#FF3f0000</color>
-    <color name="deleted">#40000000</color>
+    <color name="deleted">#ff565656</color>
     <color name="global_important">#40FF0000</color>
     <color name="global_normal">#200088FF</color>
     <color name="search_post_title">#FF2B455B</color>
