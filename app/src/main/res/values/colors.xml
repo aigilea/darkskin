@@ -85,6 +85,7 @@
     <color name="bb_cur_border">#FF004f1f</color>
     <color name="bb_cur_indent">#FF004f1f</color>
 
+    <color name="bb_offtop">#FF888888</color>
     <color name="bb_table_border">#FFC0C0C0</color>
 
     <!--bb text color map-->
