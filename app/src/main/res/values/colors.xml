@@ -73,6 +73,11 @@
     <color name="bb_code_indent">#FF4f0b00</color>
     <color name="bb_code_indent_close">#FF4f0b00</color>
 
+    <color name="bb_hide_head">#0000</color>
+    <color name="bb_hide_body">#0000</color>
+    <color name="bb_hide_border">#FF808080</color>
+    <color name="bb_hide_indent">#FF808080</color>
+
     <color name="bb_ex_body">#0000</color>
     <color name="bb_ex_border">#FF9f3b3b</color>
     <color name="bb_ex_indent">#FF9f3b3b</color>
