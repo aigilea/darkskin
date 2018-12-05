@@ -42,6 +42,9 @@
     <color name="unread_text">@color/main_text</color>
     <color name="moderator_text">#FFFF0000</color>
 
+    <color name="skin_keyword_off_bg">#FF404040</color>
+    <color name="skin_keyword_on_bg">#FF008CFF</color>
+
     <color name="bb_font">#FFb0b0b0</color>
     <color name="bb_link">#FF0060B0</color>
     <color name="bb_node_background">#0000</color>
