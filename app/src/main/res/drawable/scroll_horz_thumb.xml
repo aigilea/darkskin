@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetBottom="2dip">
+
+    <shape>
+        <solid android:color="@color/scroll_horz_thumb_color" />
+        <corners android:radius="1.5dp" />
+        <size android:height="3dip" />
+    </shape>
+</inset>
