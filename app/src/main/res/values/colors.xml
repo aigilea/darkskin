@@ -47,6 +47,8 @@
 
     <color name="scroll_horz_thumb_color">#FFB2B2B2</color>
 
+    <color name="qms_typing_dots">#FFA0A0A0</color>
+
     <color name="bb_font">#FFb0b0b0</color>
     <color name="bb_link">#FF0060B0</color>
     <color name="bb_node_background">#0000</color>
