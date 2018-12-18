@@ -49,6 +49,11 @@
 
     <color name="qms_typing_dots">#FFA0A0A0</color>
 
+    <color name="ticket_count">#FF808080</color>
+    <color name="ticket_new">#FFE00000</color>
+    <color name="ticket_work">#FFE0E000</color>
+    <color name="ticket_done">#FFE0E0E0</color>
+
     <color name="bb_font">#FFb0b0b0</color>
     <color name="bb_link">#FF0060B0</color>
     <color name="bb_node_background">#0000</color>
