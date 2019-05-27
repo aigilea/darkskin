@@ -4,6 +4,7 @@
     <color name="main_text">#FFb0b0b0</color>
     <color name="image_gallary_bg">#Ff1f201f</color>
     <color name="status_bar">#FF0A2235</color>
+    <color name="navigation_bar">#FF000000</color>
     <color name="brend">#FF0E2E49</color>
     <color name="brend_alpha">#400E2E49</color>
     <color name="label_text">#FF909090</color>
