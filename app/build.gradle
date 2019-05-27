@@ -1,16 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 28
     buildToolsVersion '28.0.3'
 
     defaultConfig {
         applicationId "ru.fourpda.skins.dark"   /* обязательно переименовать "ru.fourpda.skins.ВАШЕ_ИМЯ"
                                 при добавлении скина на форум, указать данную строчку в поле "Имя скина в системе"*/
         minSdkVersion 10
-        targetSdkVersion 26
-        versionCode 188
-        versionName "1.8.8"
+        targetSdkVersion 28
+        versionCode 10900
+        versionName "1.9.0"
     }
     buildTypes {
         release {
