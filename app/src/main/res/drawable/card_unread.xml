@@ -27,7 +27,7 @@
     <layer-list>
       <item>
         <shape android:shape="rectangle" >
-          <solid android:color="@color/pressed_csl" />
+          <solid android:color="@color/pressed" />
         </shape>
       </item>
       <item>
@@ -40,7 +40,7 @@
     <layer-list>
       <item>
         <shape android:shape="rectangle" >
-          <solid android:color="@color/pressed_csl" />
+          <solid android:color="@color/pressed" />
         </shape>
       </item>
       <!--item>

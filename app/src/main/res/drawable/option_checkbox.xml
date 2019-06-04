@@ -12,7 +12,7 @@
             <solid android:color="@android:color/transparent" />
             <stroke
                 android:width="1dip"
-                android:color="@color/border_line_csl" />
+                android:color="@color/border_line" />
             <padding
 		            android:left="16dip"
 		            android:top="8dip"
@@ -34,10 +34,10 @@
         android:top="-2dp"
         android:bottom="0dp" >
         <shape android:shape="rectangle" >
-            <solid android:color="@color/pressed_csl" />
+            <solid android:color="@color/pressed" />
             <stroke
                 android:width="1dip"
-                android:color="@color/border_line_csl" />
+                android:color="@color/border_line" />
             <padding
 		            android:left="16dip"
 		            android:top="8dip"
@@ -62,7 +62,7 @@
             <solid android:color="@android:color/transparent" />
             <stroke
                 android:width="1dip"
-                android:color="@color/border_line_csl" />
+                android:color="@color/border_line" />
             <padding
 		            android:left="16dip"
 		            android:top="8dip"
@@ -84,10 +84,10 @@
         android:top="-2dp"
         android:bottom="0dp" >
         <shape android:shape="rectangle" >
-            <solid android:color="@color/pressed_csl" />
+            <solid android:color="@color/pressed" />
             <stroke
                 android:width="1dip"
-                android:color="@color/border_line_csl" />
+                android:color="@color/border_line" />
             <padding
 		            android:left="16dip"
 		            android:top="8dip"

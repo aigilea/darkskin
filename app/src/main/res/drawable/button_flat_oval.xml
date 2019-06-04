@@ -7,12 +7,12 @@
   <selector>
     <item android:state_pressed="false">
       <shape android:dither="true" android:shape="oval">
-        <solid android:color="@color/button_flat_bg_csl" />
+        <solid android:color="@color/button_flat_bg" />
       </shape>
     </item>
     <item android:state_pressed="true">
       <shape android:dither="true" android:shape="oval">
-        <solid android:color="@color/pressed_csl" />
+        <solid android:color="@color/pressed" />
       </shape>
     </item>
   </selector>

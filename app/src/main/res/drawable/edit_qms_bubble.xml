@@ -30,7 +30,7 @@
       <shape android:shape="rectangle">
         <padding android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp" />
         <corners android:radius="5dp" />
-        <solid android:color="@color/edit_nofocus_bg_csl" />
+        <solid android:color="@color/edit_nofocus_bg" />
       </shape>
     </item>
     <item android:state_enabled="false">
@@ -38,7 +38,7 @@
       <shape android:shape="rectangle">
         <padding android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp" />
         <corners android:radius="5dp" />
-        <solid android:color="@color/edit_nofocus_bg_csl" />
+        <solid android:color="@color/edit_nofocus_bg" />
       </shape>
     </item>
     <item>
@@ -46,7 +46,7 @@
       <shape android:shape="rectangle">
         <padding android:left="8dp" android:top="8dp" android:right="8dp" android:bottom="8dp" />
         <corners android:radius="5dp" />
-        <solid android:color="@color/edit_bg_csl" />
+        <solid android:color="@color/edit_bg" />
       </shape>
     </item>
   </selector>

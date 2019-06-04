@@ -9,7 +9,7 @@
             <solid android:color="@android:color/transparent" />
             <stroke
                 android:width="1dip"
-                android:color="@color/border_line_csl" />
+                android:color="@color/border_line" />
         </shape>
     </item>
 </layer-list>

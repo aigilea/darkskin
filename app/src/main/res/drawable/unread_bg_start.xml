@@ -11,7 +11,7 @@
                 android:width="1dip"
                 android:height="1dip" /-->
             <solid
-                android:color="@color/unread_bg_csl" />
+                android:color="@color/unread_bg" />
           </shape>
         </inset>
       </item>
