@@ -9,8 +9,8 @@ android {
                                 при добавлении скина на форум, указать данную строчку в поле "Имя скина в системе"*/
         minSdkVersion 10
         targetSdkVersion 28
-        versionCode 10908
-        versionName "1.9.8"
+        versionCode 10914
+        versionName "1.9.14"
     }
     buildTypes {
         release {
